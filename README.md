@@ -2,7 +2,7 @@
 
 ## Tableau Dashboard
 Click below to view the interactive dashboard (no download needed):
-👉 **[View Dashboard on Tableau Public](https://public.tableau.com/views/YourDashboardName/SheetName)**
+👉 **[View Dashboard on Tableau Public]([https://public.tableau.com/views/YourDashboardName/SheetName](https://public.tableau.com/views/RoadCrashDataAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
 
 
 
