@@ -28,7 +28,7 @@
 
  🎯 Project Purpose
 
-This dashboard provides a comprehensive view of UK road accident statistics**, supporting data-driven decision-making in road safety. It helps:
+This dashboard provides a comprehensive view of UK road accident statistics, supporting data-driven decision-making in road safety. It helps:
 
 * Monitor **year-over-year road safety performance**
 * Identify **high-risk factors** driving accidents
@@ -104,7 +104,7 @@ Horizontal bar chart showing fatal casualties by road type:
 * Slip roads
 * One-way streets
 
-Identifies which road types pose the **highest risk**.
+Identifies which road types pose the *highest risk*.
 
 ---
 
