@@ -2,13 +2,11 @@
 
 ## Tableau Dashboard
 Click below to view the interactive dashboard (no download needed):
-👉 (https://public.tableau.com/views/RoadCrashDataAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
+👉 https://public.tableau.com/views/RoadCrashDataAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 Interactive Tableau dashboard analyzing UK road accidents for 2022. Visualizes 144,419 accidents and 195,737 casualties with 11% YoY improvement. Features temporal trends, vehicle type breakdowns, weather/road surface analysis, geographic hotspots, and severity filtering. Helps identify risk factors and supports data-driven road safety decisions.
-Purpose
-The primary objective of this dashboard is to provide a holistic view of road accident statistics across the United Kingdom, helping to:
+Purpose : The primary objective of this dashboard is to provide a holistic view of road accident statistics across the United Kingdom, helping to:
 
 Monitor road safety performance year-over-year
 Identify high-risk factors contributing to accidents
