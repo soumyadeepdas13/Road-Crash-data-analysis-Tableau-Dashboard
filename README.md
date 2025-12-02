@@ -1,7 +1,7 @@
 
  🚗 Road Crash Data Analysis (UK 2021–2022) — Tableau Dashboard
 
- 🔗 **Interactive Dashboard (No Download Required)**
+ 🔗 Interactive Dashboard (No Download Required)
 
 👉 View Here:
 [https://public.tableau.com/views/RoadCrashDataAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/RoadCrashDataAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -28,7 +28,7 @@
 
  🎯 Project Purpose
 
-This dashboard provides a **comprehensive view of UK road accident statistics**, supporting data-driven decision-making in road safety. It helps:
+This dashboard provides a comprehensive view of UK road accident statistics**, supporting data-driven decision-making in road safety. It helps:
 
 * Monitor **year-over-year road safety performance**
 * Identify **high-risk factors** driving accidents
@@ -41,7 +41,7 @@ This dashboard provides a **comprehensive view of UK road accident statistics**,
 
  🧩 Key Features
 
- 1️⃣ **Multi-Dimensional Casualty Analysis**
+ 1️⃣ Multi-Dimensional Casualty Analysis
 
 The dashboard includes five casualty categories:
 
@@ -53,7 +53,7 @@ The dashboard includes five casualty categories:
 
 ---
 
-2️⃣ **Temporal Trends**
+2️⃣ Temporal Trends
 
 * Monthly accident distribution (seasonality trends)
 * YoY comparison (2021 vs 2022)
@@ -62,7 +62,7 @@ The dashboard includes five casualty categories:
 
 ---
 
- 3️⃣ **Vehicle Type Analysis**
+ 3️⃣ Vehicle Type Analysis
 
 Breakdown of fatal casualties by vehicle types:
 
@@ -80,7 +80,7 @@ Includes:
 
 ---
 
-4️⃣ **Environmental Impact Assessment**
+4️⃣ Environmental Impact Assessment
 
 Analyzes how external factors influence accidents:
 
@@ -90,7 +90,7 @@ Analyzes how external factors influence accidents:
 
 Key Insight:
 
-> Majority of fatal accidents occurred in good weather**, challenging common assumptions.
+> Majority of fatal accidents occurred in good weather, challenging common assumptions.
 
 ---
 
